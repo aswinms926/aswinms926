@@ -19,5 +19,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/aswin-ms-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aswin-ms-cse" height="30" width="40" /></a>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aswinms926)](https://github.com/aswinms926/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinms926&" alt="aswinms926" /></p>
