@@ -20,3 +20,5 @@
 <a href="https://linkedin.com/in/linkedin.com/in/aswin-ms-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aswin-ms-cse" height="30" width="40" /></a>
 </p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinms926&" alt="aswinms926" /></p>
+
+ [![An image of @aswinms926's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aswinms926)](https://holopin.io/@aswinms926)
