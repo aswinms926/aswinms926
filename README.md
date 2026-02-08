@@ -22,3 +22,5 @@
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinms926&" alt="aswinms926" /></p>
 
  [![An image of @aswinms926's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aswinms926)](https://holopin.io/@aswinms926)
+
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinms926&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
